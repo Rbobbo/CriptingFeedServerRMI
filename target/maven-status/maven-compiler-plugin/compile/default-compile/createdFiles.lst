@@ -1,0 +1,13 @@
+it\server\beans\ProviderSerializableZipWriterBean.class
+it\client\interfaces\prometeia\FeedExec.class
+it\main\MainRunable.class
+it\bl\feed\impl\FeedHandlerImpl.class
+it\server\beans\FeedLoadDTO.class
+it\bl\EncriptionUtilities.class
+it\client\beans\FeedEncryptedClientRequestDTO.class
+it\client\beans\FeedEncryptedClientResponseDTO.class
+it\client\beans\FeedLoadClientResponseDTO.class
+it\bl\feed\FeedHandler.class
+it\server\impl\FeedExecImpl.class
+it\bl\ProviderFeedSerializeService.class
+it\main\InitServer.class
